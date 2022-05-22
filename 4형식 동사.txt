@@ -1,5 +1,6 @@
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 4형식 동사 List
-
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 give A B      | A에게 B를 주다         | The company gave Mr. Jo a promoiton.
 offer A B     | A에게 B를 제공하다     | The company offerd Mr. Jo a promotion.
 send A B      | A에게 B를 보내다       | The secretary sent Mr. Jo an invitaion.
