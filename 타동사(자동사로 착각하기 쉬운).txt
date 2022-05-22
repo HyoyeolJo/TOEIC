@@ -1,0 +1,24 @@
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+자동사로 착각하기 쉬운 타동사
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+단어        | 뜻                 | 틀린 표현            | 예문
+access      | ~에 접근하다       | access to (X)        | I can't access this file.
+accompany   | ~와 동반하다       | accompany with (X)   | I'll accompany the president.
+announce    | ~를 발표하다       | announce about (X)   | Mr. Jo announced his retirement.
+answer      | ~에 답변하다       | answer to (X)        | He didn't answer my question.
+approach    | ~에 다가가다       | approach to (X)      | We're approaching a destination.
+approve     | ~를 승인하다       | approve for (X)      | Please approve my budget plan.
+attend      | ~에 참석하다       | attend in (X)        | I attended the meeting.
+await       | ~를 기다리다       | await for (X)        | I'm awaiting the results of my test.
+contact     | ~와 연락하다       | contact with (X)     | Please contact us by e-mail.
+discuss     | ~에 관해 토론하다  | discuss about (X)    | They discussed the topic.
+email       | ~에게 이메일하다   | email to (X)         | I forgot to email you.
+emphasize   | ~에 대해 강조하다  | emphasizze on (X)    | He emphasizes the point.
+explain     | ~를 설명하다       | explain about (X)    | Can you explain your strategy?
+interview   | ~와 인터뷰하다     | interview with (X)   | She's interviewing candidates. 
+leave       | ~를 떠나다         | leave from (X)       | I'll leave Seoul next year.
+marry       | ~와 결혼하다       | marry with (X)       | I want to marry you.
+mention     | ~를 언급하다       | mention about (X)    | He mentioned the problem.
+oppose      | ~에 반대하다       | oppose to (X)        | They opposed my idea.
+reach       | ~에 도착하다       | reach to (X)         | We reached an agreement.
+resemble    | ~와 닮다           | resemble with (X)    | A person resembles his rival.
